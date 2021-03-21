@@ -1,1 +1,5 @@
 discord.py
+pyTigerGraph
+requests
+nltk
+numpy
