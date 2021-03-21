@@ -1,7 +1,6 @@
 import discord
 import os
 
-client = commands.Bot(command_prefix=".")
 token = os.getenv("DISCORD_BOT_TOKEN")
 
 class MyClient(discord.Client):
